@@ -20,7 +20,7 @@ You should do the following tasks:
 
 Use Python 3.10 or a newer version.
 Required pip packages:
-- ply, pytest, setuptools, graphviz, pathlib
+- sly, pytest, setuptools, graphviz, pathlib
 
 ### Docker
 Alternatively you can also use Docker & Docker Compose (Docker Engine 19.03.0+) if you don't
